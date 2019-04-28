@@ -4,7 +4,7 @@ Dapper Academy aims to foster a community and ecosystem for individuals working 
 
 At our events we discuss dApp development, token engineering, protocol design, cryptoeconomics, mechanism design, game theory, radical markets, cryptography, security, and other related topics. 
 
-![](/assets/img/uploads/screen-shot-2019-04-26-at-9.42.21-am.png)
+![](https://dapper.academy/assets/img/uploads/screen-shot-2019-04-26-at-9.42.21-am.png)
 
 [**Come and join us!**](https://www.meetup.com/Dapper-Academy/?action=join) Together we can establish the building blocks of a new cooperative framework for humanity using decentralized technologies.
 
