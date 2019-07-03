@@ -1,6 +1,6 @@
 # Dapper Academy
 
-Dapper Academy aims to foster a community and ecosystem for individuals working with decentralized technologies. Our events provides an opportunity to collaborate, deep-dive, and contribute to the emerging field of decentralized systems engineering. [Check out our meetup schedule](https://www.meetup.com/Dapper-Academy/).
+Dapper Academy aims to foster a community and ecosystem for individuals working with decentralized technologies. Our Web3 Singapore community provides an opportunity to collaborate, deep-dive, and contribute to the emerging field of decentralized systems engineering. [Check out our meetup schedule](https://www.meetup.com/Web3-Singapore).
 
 At our events we discuss dApp development, token engineering, protocol design, cryptoeconomics, mechanism design, game theory, radical markets, cryptography, security, and other related topics. 
 
@@ -81,7 +81,7 @@ Have something you'd like to tell the audience? We have an open announcement seg
 - Be punctual for the event; talks start at 7.30pm - _your talk may be rescheduled if you are late_
 - Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
 - Request for wifi access from the host
-- RSVP on [Meetup.com](https://www.meetup.com/Dapper-Academy/) for the event - _this is for building security clearance_
+- RSVP on [Meetup.com](https://www.meetup.com/Web3-Singapore) for the event - _this is for building security clearance_
 
 ## 💬 Reach out to the organizers
 
